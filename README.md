@@ -177,6 +177,6 @@ Customer-Shopping-Analysis/
 
 ## Author
 
-**Rajendhar Banoth**
+**Rajendhar Banoth**<br>
 Aspiring Data Analyst | Python | SQL | Power BI
 
