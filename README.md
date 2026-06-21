@@ -129,7 +129,7 @@ Built an interactive dashboard including:
 ### 1. Clone Repository
 
 ```bash
-git clone <repository-link>
+git clone <https://github.com/rajendharbanoth8-byte/Customer_analysis.git>
 ```
 
 ### 2. Install Dependencies
@@ -177,6 +177,6 @@ Customer-Shopping-Analysis/
 
 ## Author
 
-**Jashwanth Varma**
+**Rajendhar Banoth**
 Aspiring Data Analyst | Python | SQL | Power BI
 
