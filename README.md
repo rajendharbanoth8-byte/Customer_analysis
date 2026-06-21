@@ -95,11 +95,10 @@ Built an interactive dashboard including:
 
 ## Dashboard Preview
 
-(Add screenshot here)
-
-```md
-![Dashboard](images/dashboard.png)
-```
+### 1. <a href="https://github.com/rajendharbanoth8-byte/Customer_analysis/blob/main/customer_shopping_behavior.csv">Data Set</a><br>
+### 2. Dashboard : [power Bi file (.pbix) of the project.](https://github.com/rajendharbanoth8-byte/Customer_analysis/blob/main/customer_behavior_dashboard.pbix)<br>
+### 3. Dashboard Image
+![Dashboard Screenshot]()
 
 ---
 
